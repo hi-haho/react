@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  pointer-events: fill;
+}
+.blue_bar {
+  background-color: black;
+  color: crimson;
+}
+
+.list {
+  padding: 20px;
+}
