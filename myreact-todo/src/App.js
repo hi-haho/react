@@ -14,6 +14,7 @@ function TodoList({ items }) {
 function App() {
   const [items, setItems] = useState([]);
   const [text, setText] = useState("");
+
   const handleChange = (e) => {
     setText(e.target.value);
   };
